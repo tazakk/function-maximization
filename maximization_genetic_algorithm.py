@@ -3,7 +3,7 @@
 """
 Created on Thu May 21 12:41:30 2020
 
-@author: Zachary Dehaan, Sujan Shrestha, Guzel Rakhimova
+@author: Zachary Dehaan
 """
 
 import numpy as np
